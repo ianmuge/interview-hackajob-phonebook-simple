@@ -13,4 +13,4 @@ Requirements:
 ```composer require```
 - Start built-in PHP development server \
 ``` php -S localhost:8000 -t public```
-- The user interface is now available on [http://localhost:8000]
+- The user interface is now available on http://localhost:8000
